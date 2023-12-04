@@ -1,0 +1,42 @@
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\bank-Model\obj\Debug\net6.0\bank-Model.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\bank-Model\obj\Debug\net6.0\bank-Model.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\bank-Model\obj\Debug\net6.0\bank-Model.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\bank-Model\obj\Debug\net6.0\bank-Model.AssemblyInfo.cs
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\bank-Model\obj\Debug\net6.0\bank-Model.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\bank-Model\bin\Debug\net6.0\bank-Model.deps.json
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\bank-Model\bin\Debug\net6.0\bank-Model.runtimeconfig.json
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\bank-Model\bin\Debug\net6.0\bank-Model.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\bank-Model\bin\Debug\net6.0\bank-Model.pdb
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\bank-Model\obj\Debug\net6.0\bank-Model.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\bank-Model\obj\Debug\net6.0\refint\bank-Model.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\bank-Model\obj\Debug\net6.0\bank-Model.pdb
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\bank-Model\obj\Debug\net6.0\bank-Model.genruntimeconfig.cache
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\bank-Model\obj\Debug\net6.0\ref\bank-Model.dll
+C:\Users\hitmachut\Desktop\data\BankDada\bank-Model\bin\Debug\net6.0\bank-Model.deps.json
+C:\Users\hitmachut\Desktop\data\BankDada\bank-Model\bin\Debug\net6.0\bank-Model.runtimeconfig.json
+C:\Users\hitmachut\Desktop\data\BankDada\bank-Model\bin\Debug\net6.0\bank-Model.dll
+C:\Users\hitmachut\Desktop\data\BankDada\bank-Model\bin\Debug\net6.0\bank-Model.pdb
+C:\Users\hitmachut\Desktop\data\BankDada\bank-Model\obj\Debug\net6.0\bank-Model.csproj.AssemblyReference.cache
+C:\Users\hitmachut\Desktop\data\BankDada\bank-Model\obj\Debug\net6.0\bank-Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hitmachut\Desktop\data\BankDada\bank-Model\obj\Debug\net6.0\bank-Model.AssemblyInfoInputs.cache
+C:\Users\hitmachut\Desktop\data\BankDada\bank-Model\obj\Debug\net6.0\bank-Model.AssemblyInfo.cs
+C:\Users\hitmachut\Desktop\data\BankDada\bank-Model\obj\Debug\net6.0\bank-Model.csproj.CoreCompileInputs.cache
+C:\Users\hitmachut\Desktop\data\BankDada\bank-Model\obj\Debug\net6.0\bank-Model.dll
+C:\Users\hitmachut\Desktop\data\BankDada\bank-Model\obj\Debug\net6.0\refint\bank-Model.dll
+C:\Users\hitmachut\Desktop\data\BankDada\bank-Model\obj\Debug\net6.0\bank-Model.pdb
+C:\Users\hitmachut\Desktop\data\BankDada\bank-Model\obj\Debug\net6.0\bank-Model.genruntimeconfig.cache
+C:\Users\hitmachut\Desktop\data\BankDada\bank-Model\obj\Debug\net6.0\ref\bank-Model.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\bank-Model\bin\Debug\net6.0\bank-Model.deps.json
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\bank-Model\bin\Debug\net6.0\bank-Model.runtimeconfig.json
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\bank-Model\bin\Debug\net6.0\bank-Model.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\bank-Model\bin\Debug\net6.0\bank-Model.pdb
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\bank-Model\obj\Debug\net6.0\bank-Model.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\bank-Model\obj\Debug\net6.0\bank-Model.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\bank-Model\obj\Debug\net6.0\bank-Model.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\bank-Model\obj\Debug\net6.0\bank-Model.AssemblyInfo.cs
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\bank-Model\obj\Debug\net6.0\bank-Model.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\bank-Model\obj\Debug\net6.0\bank-Model.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\bank-Model\obj\Debug\net6.0\refint\bank-Model.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\bank-Model\obj\Debug\net6.0\bank-Model.pdb
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\bank-Model\obj\Debug\net6.0\bank-Model.genruntimeconfig.cache
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\bank-Model\obj\Debug\net6.0\ref\bank-Model.dll

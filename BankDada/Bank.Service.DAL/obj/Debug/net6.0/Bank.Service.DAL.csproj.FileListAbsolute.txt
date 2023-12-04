@@ -1,0 +1,45 @@
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\Bank.Service.DAL\obj\Debug\net6.0\Bank.Service.DAL.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\Bank.Service.DAL\obj\Debug\net6.0\Bank.Service.DAL.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\Bank.Service.DAL\obj\Debug\net6.0\Bank.Service.DAL.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\Bank.Service.DAL\obj\Debug\net6.0\Bank.Service.DAL.AssemblyInfo.cs
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\Bank.Service.DAL\obj\Debug\net6.0\Bank.Service.DAL.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\Bank.Service.DAL\bin\Debug\net6.0\Bank.Service.DAL.deps.json
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\Bank.Service.DAL\bin\Debug\net6.0\Bank.Service.DAL.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\Bank.Service.DAL\bin\Debug\net6.0\Bank.Service.DAL.pdb
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\Bank.Service.DAL\bin\Debug\net6.0\bank-Model.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\Bank.Service.DAL\bin\Debug\net6.0\bank-Model.pdb
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\Bank.Service.DAL\obj\Debug\net6.0\Bank.Service.DAL.csproj.CopyComplete
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\Bank.Service.DAL\obj\Debug\net6.0\Bank.Service.DAL.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\Bank.Service.DAL\obj\Debug\net6.0\refint\Bank.Service.DAL.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\Bank.Service.DAL\obj\Debug\net6.0\Bank.Service.DAL.pdb
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\Bank.Service.DAL\obj\Debug\net6.0\ref\Bank.Service.DAL.dll
+C:\Users\hitmachut\Desktop\data\BankDada\Bank.Service.DAL\bin\Debug\net6.0\Bank.Service.DAL.deps.json
+C:\Users\hitmachut\Desktop\data\BankDada\Bank.Service.DAL\bin\Debug\net6.0\Bank.Service.DAL.dll
+C:\Users\hitmachut\Desktop\data\BankDada\Bank.Service.DAL\bin\Debug\net6.0\Bank.Service.DAL.pdb
+C:\Users\hitmachut\Desktop\data\BankDada\Bank.Service.DAL\bin\Debug\net6.0\bank-Model.dll
+C:\Users\hitmachut\Desktop\data\BankDada\Bank.Service.DAL\bin\Debug\net6.0\bank-Model.pdb
+C:\Users\hitmachut\Desktop\data\BankDada\Bank.Service.DAL\obj\Debug\net6.0\Bank.Service.DAL.csproj.AssemblyReference.cache
+C:\Users\hitmachut\Desktop\data\BankDada\Bank.Service.DAL\obj\Debug\net6.0\Bank.Service.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hitmachut\Desktop\data\BankDada\Bank.Service.DAL\obj\Debug\net6.0\Bank.Service.DAL.AssemblyInfoInputs.cache
+C:\Users\hitmachut\Desktop\data\BankDada\Bank.Service.DAL\obj\Debug\net6.0\Bank.Service.DAL.AssemblyInfo.cs
+C:\Users\hitmachut\Desktop\data\BankDada\Bank.Service.DAL\obj\Debug\net6.0\Bank.Service.DAL.csproj.CoreCompileInputs.cache
+C:\Users\hitmachut\Desktop\data\BankDada\Bank.Service.DAL\obj\Debug\net6.0\Bank.Service.DAL.csproj.CopyComplete
+C:\Users\hitmachut\Desktop\data\BankDada\Bank.Service.DAL\obj\Debug\net6.0\Bank.Service.DAL.dll
+C:\Users\hitmachut\Desktop\data\BankDada\Bank.Service.DAL\obj\Debug\net6.0\refint\Bank.Service.DAL.dll
+C:\Users\hitmachut\Desktop\data\BankDada\Bank.Service.DAL\obj\Debug\net6.0\Bank.Service.DAL.pdb
+C:\Users\hitmachut\Desktop\data\BankDada\Bank.Service.DAL\obj\Debug\net6.0\ref\Bank.Service.DAL.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\Bank.Service.DAL\bin\Debug\net6.0\Bank.Service.DAL.deps.json
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\Bank.Service.DAL\bin\Debug\net6.0\Bank.Service.DAL.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\Bank.Service.DAL\bin\Debug\net6.0\Bank.Service.DAL.pdb
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\Bank.Service.DAL\bin\Debug\net6.0\bank-Model.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\Bank.Service.DAL\bin\Debug\net6.0\bank-Model.pdb
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\Bank.Service.DAL\obj\Debug\net6.0\Bank.Service.DAL.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\Bank.Service.DAL\obj\Debug\net6.0\Bank.Service.DAL.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\Bank.Service.DAL\obj\Debug\net6.0\Bank.Service.DAL.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\Bank.Service.DAL\obj\Debug\net6.0\Bank.Service.DAL.AssemblyInfo.cs
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\Bank.Service.DAL\obj\Debug\net6.0\Bank.Service.DAL.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\Bank.Service.DAL\obj\Debug\net6.0\Bank.Service.DAL.csproj.CopyComplete
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\Bank.Service.DAL\obj\Debug\net6.0\Bank.Service.DAL.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\Bank.Service.DAL\obj\Debug\net6.0\refint\Bank.Service.DAL.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\Bank.Service.DAL\obj\Debug\net6.0\Bank.Service.DAL.pdb
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\Bank.Service.DAL\obj\Debug\net6.0\ref\Bank.Service.DAL.dll

@@ -1,0 +1,2 @@
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\Bank.Model\obj\Debug\Bank.Model.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\Bank.Model\obj\Debug\Bank.Model.csproj.CoreCompileInputs.cache

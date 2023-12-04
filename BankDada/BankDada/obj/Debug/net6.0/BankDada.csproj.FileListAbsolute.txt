@@ -1,0 +1,247 @@
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\obj\Debug\net6.0\BankDada.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\obj\Debug\net6.0\BankDada.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\obj\Debug\net6.0\BankDada.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\obj\Debug\net6.0\BankDada.AssemblyInfo.cs
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\obj\Debug\net6.0\BankDada.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\obj\Debug\net6.0\BankDada.MvcApplicationPartsAssemblyInfo.cache
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\appsettings.Development.json
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\appsettings.json
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\BankDada.exe
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\BankDada.deps.json
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\BankDada.runtimeconfig.json
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\BankDada.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\BankDada.pdb
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Azure.Core.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Azure.Identity.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\System.Drawing.Common.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\System.Memory.Data.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\System.Runtime.Caching.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\System.Security.Permissions.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\System.Windows.Extensions.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\bank-Model.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Bank.Service.BL.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Bank.Service.DAL.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\bank-Model.pdb
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Bank.Service.BL.pdb
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Bank.Service.DAL.pdb
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\obj\Debug\net6.0\staticwebassets.build.json
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\obj\Debug\net6.0\staticwebassets.development.json
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\obj\Debug\net6.0\scopedcss\bundle\BankDada.styles.css
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\obj\Debug\net6.0\BankDada.csproj.CopyComplete
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\obj\Debug\net6.0\BankDada.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\obj\Debug\net6.0\refint\BankDada.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\obj\Debug\net6.0\BankDada.pdb
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\obj\Debug\net6.0\BankDada.genruntimeconfig.cache
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\data\BankDada\BankDada\obj\Debug\net6.0\ref\BankDada.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\appsettings.json
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\BankDada.exe
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\BankDada.deps.json
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\BankDada.runtimeconfig.json
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\BankDada.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\BankDada.pdb
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\bank-Model.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\Bank.Service.BL.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\Bank.Service.DAL.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\bank-Model.pdb
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\Bank.Service.BL.pdb
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\bin\Debug\net6.0\Bank.Service.DAL.pdb
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\obj\Debug\net6.0\BankDada.csproj.AssemblyReference.cache
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\obj\Debug\net6.0\BankDada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\obj\Debug\net6.0\BankDada.AssemblyInfoInputs.cache
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\obj\Debug\net6.0\BankDada.AssemblyInfo.cs
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\obj\Debug\net6.0\BankDada.csproj.CoreCompileInputs.cache
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\obj\Debug\net6.0\BankDada.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\obj\Debug\net6.0\BankDada.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\obj\Debug\net6.0\scopedcss\bundle\BankDada.styles.css
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\obj\Debug\net6.0\BankDada.csproj.CopyComplete
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\obj\Debug\net6.0\BankDada.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\obj\Debug\net6.0\refint\BankDada.dll
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\obj\Debug\net6.0\BankDada.pdb
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\obj\Debug\net6.0\BankDada.genruntimeconfig.cache
+C:\Users\hitmachut\Desktop\data\BankDada\BankDada\obj\Debug\net6.0\ref\BankDada.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\appsettings.Development.json
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\appsettings.json
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\BankDada.exe
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\BankDada.deps.json
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\BankDada.runtimeconfig.json
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\BankDada.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\BankDada.pdb
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Azure.Core.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Azure.Identity.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\System.Drawing.Common.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\System.Memory.Data.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\System.Runtime.Caching.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\System.Security.Permissions.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\System.Windows.Extensions.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\bank-Model.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Bank.Service.BL.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Bank.Service.DAL.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\bank-Model.pdb
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Bank.Service.BL.pdb
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Bank.Service.DAL.pdb
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\obj\Debug\net6.0\BankDada.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\obj\Debug\net6.0\BankDada.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\obj\Debug\net6.0\BankDada.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\obj\Debug\net6.0\BankDada.AssemblyInfo.cs
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\obj\Debug\net6.0\BankDada.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\obj\Debug\net6.0\BankDada.MvcApplicationPartsAssemblyInfo.cs
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\obj\Debug\net6.0\BankDada.MvcApplicationPartsAssemblyInfo.cache
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\obj\Debug\net6.0\staticwebassets.build.json
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\obj\Debug\net6.0\staticwebassets.development.json
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\obj\Debug\net6.0\scopedcss\bundle\BankDada.styles.css
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\obj\Debug\net6.0\BankDada.csproj.CopyComplete
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\obj\Debug\net6.0\BankDada.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\obj\Debug\net6.0\refint\BankDada.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\obj\Debug\net6.0\BankDada.pdb
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\obj\Debug\net6.0\BankDada.genruntimeconfig.cache
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\obj\Debug\net6.0\ref\BankDada.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Humanizer.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\Mono.TextTemplating.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\System.CodeDom.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\System.Text.Json.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\data\BankDada\BankDada\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
